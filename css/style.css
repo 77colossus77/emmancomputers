@@ -1,0 +1,63 @@
+.container-fluid {
+padding: 1% 5%;
+}
+
+h1 {font-family: "Orbitron", sans-serif;
+    font-size: 3.2rem;
+    line-height: 1.5;
+    color: white;
+
+}
+
+h3 {font-family: "Orbitron", sans-serif;
+
+}
+
+p {
+    color:#8f8f8f;
+}
+
+.navbar-brand {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
+  }
+
+.navbar {
+    padding: 0 0 5rem; 
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.title-image {
+    width: 95%;
+}
+
+.company-name {
+    font-size: 2.5rem;
+}
+  
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+color:darkslategray;
+margin-bottom: 1rem;
+}
+
+.icon:hover {
+color:blue;
+}
