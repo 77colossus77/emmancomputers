@@ -1,0 +1,115 @@
+.container-fluid {
+    padding: 1% 5%;
+}
+
+h1 {
+    font-family: "Orbitron", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+
+}
+
+h2 {
+font-family: "Orbitron", sans-serif;
+font-size: 1.5rem;
+line-height: 1.5;
+    
+}
+
+h3 {
+    font-family: "Orbitron", sans-serif;
+
+}
+
+p {
+    color: #8f8f8f;
+}
+
+.navbar-brand {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
+}
+
+.navbar {
+    padding: 0 0 3rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.title-image {
+    width: 95%;
+}
+
+.company-name {
+    font-size: 2.5rem;
+}
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: darkslategray;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: blue;
+}
+
+/* Product section */
+
+#products {
+    
+    text-align: center;
+    background-color:darkslategray;
+    color: #fff;
+}
+
+
+.Our-Products{
+padding-top: 10px;
+}
+
+
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.product-image{
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+background-color: white;
+text-align: center;
+
+}
+
+.press-logo{
+    width: 15%;
+    margin: 10px 10px 50px;
+}
+
+.mikrotik-logo{
+padding-bottom: 1%;
+}
+
+
